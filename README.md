@@ -1,0 +1,2 @@
+# Excel_Redmine_Controller
+ExcelからRedmineの情報をRestAPIで取得する
